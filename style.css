@@ -43,6 +43,7 @@ body{font-family:'Sora',sans-serif;background:var(--cream);color:var(--text);ove
 .pain-list{list-style:none;display:flex;flex-direction:column;gap:10px;margin-top:32px}
 .pain-list li{border-left:3px solid var(--red-bright);padding:14px 20px;background:white;font-size:.95rem;font-weight:500;box-shadow:0 2px 10px rgba(0,0,0,.06);transition:transform .2s,box-shadow .2s,border-color .2s}
 .pain-list li:hover{transform:translateX(5px);box-shadow:0 4px 20px rgba(0,0,0,.1);border-color:var(--gold)}
+.pain-complement-italic{font-style: italic;font-size:1.1rem;font-weight:700;color:var(--red-bright);margin-top:28px;letter-spacing:.02em;line-height:1.5}
 .news-card{background:white;box-shadow:0 8px 32px rgba(0,0,0,.1);overflow:hidden}
 .news-header{background:#cc0000;color:white;padding:12px 16px;display:flex;align-items:center;gap:10px}
 .news-g1{font-family:'Playfair Display',serif;font-size:1.5rem;font-weight:900;letter-spacing:-.03em}
